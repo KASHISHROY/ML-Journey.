@@ -1,0 +1,5 @@
+26-02-22 20:47:55-root-DEBUG-This is a debug message
+26-02-22 20:47:55-root-INFO-This is an info mesaage
+26-02-22 20:47:55-root-WARNING-This is a warmimg message
+26-02-22 20:47:55-root-ERROR-This is an error message
+26-02-22 20:47:55-root-CRITICAL-This is a critical message

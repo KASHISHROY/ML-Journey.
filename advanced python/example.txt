@@ -1,0 +1,17 @@
+A week ago a friend invited a couple of other couples over for dinner.
+Eventually the food was cleared off the table for what turned out to be some fierce Scrabble.
+
+Heeding the strategy of going for the shorter more valuable word over the longer cheaper word,
+our final play was Bon which happens to be a Japanese Buddhist festival.
+
+Just the day before our host had written about the challenges of writing short.
+In journalism and most professional writing the principle holds true across genres.
+
+Good writing is boiled down not baked full of air.
+Clarity matters more than length.
+
+This file contains multiple lines of plain text.
+Each line can be read efficiently using a generator function in Python.
+
+Practice reading large files line by line to save memory.
+That is how production systems handle logs and datasets.
