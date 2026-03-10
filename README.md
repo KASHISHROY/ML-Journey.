@@ -1,4 +1,4 @@
-Machine Learning Learning Journey
+Machine Learning Learning Journey.
 Overview
 
 This repository documents my structured learning journey in Python and Machine Learning.
